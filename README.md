@@ -5,6 +5,7 @@ I'm Ivan!
 =======================================================================================================================================
 
 On my GitHub, you can find projects where I implement my ideas and learn new technologies.
+My [leetcode](https://leetcode.com/u/vncvtkv/) ;)
 
 ## 📫 Contacts
 * [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:vncvtkv@yandex.ru)
